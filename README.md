@@ -1,20 +1,126 @@
-<h1 align="center">Hi 👋, I'm Aidil 'Aqif Mohd Pidaus</h1>
-<h3 align="center">A passionate Software Engineer from Malaysia</h3>
+# Aidil 'Aqif Mohd Pidaus
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aidilaqif&label=Profile%20views&color=0e75b6&style=flat" alt="aidilaqif" /> </p>
+**Software Engineer | Full-Stack Developer**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aidilaqif" alt="aidilaqif" /></a> </p>
+📍 Johor, Malaysia | 📧 aidil.aqif@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/aidilaqif)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aidilaqif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aidilaqif" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 👨‍💻 Summary
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidilaqif&show_icons=true&locale=en&layout=compact" alt="aidilaqif" /></p>
+Results-driven Software Engineering student with extensive experience in full-stack development, specializing in web and mobile applications. Proven track record of delivering scalable solutions across multiple successful projects using modern technologies including Flutter, React, Vue.js, and Node.js. Currently seeking full-time opportunities to leverage technical expertise and contribute to innovative software solutions.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aidilaqif&show_icons=true&locale=en" alt="aidilaqif" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidilaqif&" alt="aidilaqif" /></p>
+## 🎓 Education
+
+**Bachelor of Software Engineering** | **CGPA: 3.67**  
+*Universiti Putra Malaysia* | October 2021 - Present
+
+**Foundation in Computer Science** | **CGPA: 4.00**  
+*Kolej Matrikulasi Johor, Tangkak* | June 2020 - April 2021
+
+**Academic Achievements:**
+- Dean's List Award (Semesters 1, 2, 6, and 7)
+- Best Team Project Award for Software Engineering Team Project Finale
+
+---
+
+## 💼 Current Experience
+
+**Intern Programmer** | *Zanko Sdn Bhd* | March 2025 - Present
+- Developing comprehensive task management systems using Flutter, CodeIgniter 4, and Node.js
+- Implementing cross-platform applications with real-time communication features
+- Collaborating with development teams on technology integration and system optimization
+
+---
+
+## 🚀 Featured Projects
+
+### 🔧 Task Tracker - Comprehensive Task Management System
+**Role:** Full-Stack Developer  
+**Technologies:** Flutter, CodeIgniter 4, Node.js, Socket.io, MySQL, REST API, WebSockets, Docker
+
+- Developed complete three-tier architecture with web dashboard, mobile application, and real-time notification server
+- Implemented role-based access control with secure authentication across all platforms
+- Achieved 100% notification delivery reliability with offline synchronization capabilities
+- Improved project transparency by 80% through instant task updates and progress tracking
+- Containerized backend services using Docker for consistent deployment environments
+
+### 🚁 CPS-X Dragonfly 4.0 - Warehouse Management System
+**Role:** Full-Stack Developer | *Final Year Project*  
+**Technologies:** React, Flutter, Node.js, PostgreSQL, OpenAI, Express.js, REST API, QR Integration
+
+- Collaborated with Prestige Atlantic Asia Sdn Bhd to develop automated warehouse inventory management platform
+- Integrated drone operations for real-time product tracking and monitoring
+- Reduced manual inventory tracking time by 60% through automated scanning and cloud synchronization
+- Enhanced warehouse operational efficiency by 40% with seamless data flow between platforms
+- Implemented AI-powered analytics using OpenAI GPT-3.5 for intelligent performance optimization
+
+### 📊 Campaign Report Manager - Social Media Analytics Platform
+**Role:** UI/UX Designer & Front-End Developer | *Industry Collaboration*  
+**Technologies:** Vue.js, Vuetify, AWS Lambda, DynamoDB
+
+- Partnered with eCloudValley Sdn Bhd to create centralized social media analytics platform
+- Developed comprehensive analytics dashboard supporting Instagram, TikTok, and Facebook
+- Reduced campaign evaluation time by 70% through automated report generation and PDF export
+- Implemented content creator evaluation algorithms with engagement metrics analysis
+- Awarded "Best Team Project Award" for exceptional scalability and commercial viability
+
+---
+
+## 🛠️ Technical Skills
+
+### **Advanced Proficiency**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### **Intermediate Proficiency**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### **Developing Proficiency**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aidilaqif&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aidilaqif&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Professional Objectives
+
+Currently seeking full-time Software Engineer opportunities where I can:
+- Apply comprehensive full-stack development skills across web and mobile platforms
+- Contribute to innovative projects that solve real-world business challenges
+- Collaborate with experienced development teams to deliver high-quality software solutions
+- Continue expanding technical expertise in emerging technologies and best practices
+
+---
+
+## 📞 Contact Information
+
+- **Email:** aidil.aqif@gmail.com
+- **LinkedIn:** [linkedin.com/in/aidilaqif](https://linkedin.com/in/aidilaqif)
+- **Location:** Johor, Malaysia
+- **Availability:** Open to full-time opportunities
+
+---
+
+*"Passionate about creating efficient, scalable software solutions that drive business success and user satisfaction."*
